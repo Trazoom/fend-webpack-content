@@ -34,6 +34,7 @@
     "style-loader": "^1.2.1",
     "terser-webpack-plugin": "^1.4.4",
     "webpack-bundle-analyzer": "^3.8.0",
-    "webpack-dev-server": "^3.11.0"
+    "webpack-dev-server": "^3.11.0",
+    "webpack-merge": "^4.2.2"
   }
 }
